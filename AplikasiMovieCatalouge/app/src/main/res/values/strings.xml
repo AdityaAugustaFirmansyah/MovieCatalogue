@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AplikasiMovieCatalouge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="change_languge">Change Language</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>

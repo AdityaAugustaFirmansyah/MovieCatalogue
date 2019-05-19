@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplikasiMovieCatalouge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="movie">Film</string>
+    <string name="tv_show">Pertunjukan TV</string>
+    <string name="change_languge">Ganti Bahasa</string>
+
+
+</resources>

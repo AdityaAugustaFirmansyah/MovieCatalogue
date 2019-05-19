@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/change_languge"
+        android:id="@+id/chg_lg"/>
+
+    <item
+        android:title="Text Search"
+        android:id="@+id/search_edt"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.SearchView" />
+</menu>
